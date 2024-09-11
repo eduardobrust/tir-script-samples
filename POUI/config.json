@@ -1,0 +1,7 @@
+{
+    "Url": "http://localhost:4200/",
+    "Browser": "firefox",
+    "Language": "pt-br",
+    "Headless": false,
+    "POUI": true
+}
