@@ -9,3 +9,7 @@ __pycache__/
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/tir-script-samples.iml
 /.idea/vcs.xml
+
+# Bloqueio de checkpoints e sessões do VS Code / Extensões de IA
+sessions/
+**/checkpoints/
